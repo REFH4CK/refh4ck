@@ -4,8 +4,8 @@
 
 </div>
 
-<h1>📩 My socials</h1>
-<div align="center" style="margin: 8px 0px 8px 0px; background-color: #1D1D1D; border-radius: 8px;">
+  <h1>My socials</h1>
+<div align="center">
   <a href="https://x.com/AndresEHR29" align="center">
     <img src="https://svgl.app/library/x_dark.svg" alt="" width="35">
   </a>
