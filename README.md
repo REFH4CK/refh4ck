@@ -4,7 +4,7 @@
 
 </div>
 
-  <h1>My socials</h1>
+<h1>My socials</h1>
 <div align="center">
   <a href="https://x.com/AndresEHR29" align="center">
     <img src="https://svgl.app/library/x_dark.svg" alt="" width="35">
