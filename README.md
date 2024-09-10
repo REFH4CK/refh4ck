@@ -4,12 +4,15 @@
 
 </div>
 
-  <h1>My socials</h1>
+<h1>📩 My socials</h1>
 <div align="center" style="margin: 8px 0px 8px 0px; background-color: #1D1D1D; border-radius: 8px;">
   <a href="https://x.com/AndresEHR29" align="center">
-    <img src="https://svgl.app/library/x_dark.svg" alt="" width="40">
+    <img src="https://svgl.app/library/x_dark.svg" alt="" width="35">
   </a>
   <a href="https://www.instagram.com/r3fh4ck.dev/" align="center">
-    <img src="https://svgl.app/library/instagram_dark.svg" alt="" width="40">
+    <img src="https://svgl.app/library/instagram_dark.svg" alt="" width="35">
+  </a>  
+  <a href="https://www.linkedin.com/in/andresehr29/" align="center">
+    <img src="https://svgl.app/library/linkedin.svg" alt="" width="35">
   </a>  
 </div>
