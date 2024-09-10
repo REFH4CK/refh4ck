@@ -1,4 +1,4 @@
-<div align="center" style="margin-bottom: 2rem;">
+<div align="center" style="margin-bottom: 32px;">
   <a href="https://x.com/AndresEHR29" align="center">
     <img src="https://svgl.app/library/x_dark.svg" alt="" width="40">
   </a>
