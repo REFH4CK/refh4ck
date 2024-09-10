@@ -3,9 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=refh4ck&label=Profile%20views&color=0e75b6&style=flat" alt="refh4ck" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=refh4ck" alt="refh4ck" /></a> </p>
+<div align="center">
 
-<p align="left"> <a href="https://twitter.com/andresehr29" target="blank"><img src="https://img.shields.io/twitter/follow/andresehr29?logo=twitter&style=for-the-badge" alt="andresehr29" /></a> </p>
+  ![REFH4CK's GitHub stats](https://github-readme-stats.vercel.app/api?username=REFH4CK&show_icons=true&locale=es&theme=dark#gh-dark-mode-only)
+
+</div>
 
 - 🔭 I’m currently working on [.](.)
 
