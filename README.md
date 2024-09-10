@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://x.com/AndresEHR29" align="center">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Logo_of_Twitter.svg/2491px-Logo_of_Twitter.svg.png" alt="" width="60">
+    <img src="https://svgl.app/library/x_dark.svg" alt="" width="60">
   </a>
   <a href="https://www.instagram.com/r3fh4ck.dev/" align="center">
     <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="" width="60">
